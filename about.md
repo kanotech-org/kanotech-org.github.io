@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the Kanotech blog.
+This is the Kanotech Work-in-Progress Blog.
+Rants, ideas, and some useful info...
 
-Use this page for a short profile, contact links, and what readers should expect from the blog.
