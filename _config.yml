@@ -1,0 +1,14 @@
+title: Kanotech Blog
+description: Notes, projects, and technical write-ups.
+theme: minima
+url: ""
+baseurl: ""
+
+author:
+  name: Kane Partridge
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
