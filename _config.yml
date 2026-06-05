@@ -1,11 +1,10 @@
-title: Kanotech Blog
-description: Notes, projects, and technical write-ups.
+title: Work-in-Progress
+description: Rants, ideas and some useful info...
 theme: minima
 url: ""
 baseurl: ""
 
-author:
-  name: Kane Partridge
+author: Kane Partridge
 
 plugins:
   - jekyll-feed
