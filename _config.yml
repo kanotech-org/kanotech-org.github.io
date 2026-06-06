@@ -5,6 +5,7 @@ url: ""
 baseurl: ""
 
 author: Kane Partridge
+google_analytics: G-JN4EWBE0CD
 
 plugins:
   - jekyll-feed
