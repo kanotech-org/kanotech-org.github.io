@@ -2,5 +2,7 @@ _site/
 .jekyll-cache/
 .sass-cache/
 Gemfile.lock
+.jekyll-serve.log
+.jekyll-serve.err.log
 bit/
 archive/
