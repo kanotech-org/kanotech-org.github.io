@@ -1,2 +1,2 @@
 # Work-in-Progress Blog
-[[https://kanotech-org.github.io]]
+https://blog.kanotech.org
